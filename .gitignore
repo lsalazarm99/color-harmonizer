@@ -1,0 +1,6 @@
+.idea
+color-harmonizer.iml
+
+node_modules
+dist
+coverage
